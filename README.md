@@ -1,5 +1,5 @@
 # Uber-New-York-Data-Analysis
-# The data science project aims to answer several questions related to Uber pickups in New York City. The first task is to determine which month has the highest number of Uber pickups that require collecting data on the number of pickups for each month and then analyzing the data to identify the month with the highest number of pickups.
+The data science project aims to answer several questions related to Uber pickups in New York City. The first task is to determine which month has the highest number of Uber pickups that require collecting data on the number of pickups for each month and then analyzing the data to identify the month with the highest number of pickups.
 
 Next, the project aims to determine the total number of trips for each month and weekday. This task will involve collecting data on the total number of trips for each month and weekday and then analyzing the data to identify trends and patterns.
 
